@@ -23,4 +23,4 @@ A web app built for the Python Developer Intern task at PS Fin Solutions.
 
 Click below to watch the demo video:
 
-[▶️ View demo](./Demo.mp4)
+[▶️ View Demo](https://github.com/user-attachments/assets/3f9b08ad-bca7-47bd-b800-7b1e13028966)
