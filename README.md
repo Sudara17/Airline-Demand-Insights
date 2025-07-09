@@ -19,3 +19,8 @@ A web app built for the Python Developer Intern task at PS Fin Solutions.
    ```bash
    git clone https://github.com/YOUR_USERNAME/airline-demand-insights.git
    cd airline-demand-insights
+##  Demo
+
+Click below to watch the demo video:
+
+[▶️ View demo](./Demo.mp4)
